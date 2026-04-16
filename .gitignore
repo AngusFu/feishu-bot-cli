@@ -1,0 +1,17 @@
+# Build output
+feishu-bot-cli
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+feishu-bot-cli-*
+
+# Test binary
+*.test
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
